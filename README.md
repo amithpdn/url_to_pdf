@@ -144,7 +144,7 @@ For very large URL lists (thousands of URLs), it's recommended to:
 
 ## License
 
-This script is provided under the MIT License. Feel free to modify and distribute it as needed.
+This script is provided under the [MIT License](./license.md). Feel free to modify and distribute it as needed.
 
 ## Acknowledgments
 
