@@ -1,0 +1,9 @@
+[project]
+name = "url_to_pdf"
+version = "0.1.0"
+description = "A robust Python utility for saving web pages as PDF files with enhanced reliability and customization options."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pdfkit>=1.0.0",
+]
